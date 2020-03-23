@@ -6,7 +6,6 @@ json 序列化异常
 因为HttpMessageConverters中包含了SerializerFeature.BrowserCompatible,去掉之后则正常
 
 ## 错误日志
-
 *.log 文件
 
 ## 环境
