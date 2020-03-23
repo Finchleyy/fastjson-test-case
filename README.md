@@ -8,3 +8,7 @@ json 序列化异常
 ## 错误日志
 
 *.log 文件
+
+## 环境
+fastjson:1.2.58
+java version "1.8.0_181"
